@@ -12,7 +12,7 @@ This repository contains the labs and resources for the **ALTEGRAD** course (Adv
   Topics: Transformer Models, Transfer Learning  
 
 - **Pretrained Language Models and LLMs**  
-  Topics: Large Language Models (LLMs), Instruction Tuning, Direct Preference Optimization 
+  Topics: Large Language Models (LLMs), Fine Tuning, Direct Preference Optimization (DPO)
 
 - **Machine Learning for Graphs**  
 
