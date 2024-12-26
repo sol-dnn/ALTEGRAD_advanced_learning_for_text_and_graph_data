@@ -21,6 +21,7 @@ This repository contains the labs and resources for the **ALTEGRAD** course (Adv
   Topics: Graph Neural Network (Node CLassification), Node Embeddings (DeepWalk capture neighborhood similarity)
 
 - **Deep Learning for Graphs II**  
+  Topics: Graph Attention Layer, Graph Neural Network (Graph-Level Task)
 
 - **Deep Learning for Sets and Graph Generation**  
   Topics: DeepSets, Graph Generation with Variational Graph Autoencoders
