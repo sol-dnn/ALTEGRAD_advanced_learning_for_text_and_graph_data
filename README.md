@@ -1,4 +1,4 @@
-# Advanced Learning for Text and Graph Data (ALTEGRAD) 2024-2025
+# Advanced Learning for Text and Graph Data (ALTEGRAD)
 
 This repository contains the labs and resources for the **ALTEGRAD** course (Advanced Learning for Text and Graph Data), conducted during the academic year 2024-2025 as part of the Master's in Data Science at Ecole Polytechnique and the Master MVA (Mathématiques, Vision, Apprentissage) at ENS Paris-Saclay. The course covers advanced topics in natural language processing (NLP), machine learning, and deep learning techniques for text and graph data.
 
