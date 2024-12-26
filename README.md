@@ -23,7 +23,7 @@ This repository contains the labs and resources for the **ALTEGRAD** course (Adv
 - **Deep Learning for Graphs II**  
 
 - **Deep Learning for Sets and Graph Generation**  
-  Topics: Generative AI (GenAI) for Graphs  
+  Topics: DeepSets, Graph Generation with Variational Graph Autoencoders
 
 ---
 
