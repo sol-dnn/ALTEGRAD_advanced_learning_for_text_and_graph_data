@@ -15,10 +15,10 @@ This repository contains the labs and resources for the **ALTEGRAD** course (Adv
   Topics: Large Language Models (LLMs), Fine Tuning, Direct Preference Optimization (DPO)
 
 - **Machine Learning for Graphs**  
-  Topics: Community Detection (Graph Clustering, Modularity), Classification using Graph Kernels and SVM
+  Topics: Community Detection (Graph Clustering, Modularity), Graph Classification using Graph Kernels and SVM
 
 - **Deep Learning for Graphs I**  
-  Topics: Graph Neural Network, Node Embeddings (DeepWalk)
+  Topics: Graph Neural Network (Node CLassification), Node Embeddings (DeepWalk)
 
 - **Deep Learning for Graphs II**  
 
