@@ -18,7 +18,7 @@ This repository contains the labs and resources for the **ALTEGRAD** course (Adv
   Topics: Community Detection (Graph Clustering, Modularity), Graph Classification using Graph Kernels and SVM
 
 - **Deep Learning for Graphs I**  
-  Topics: Graph Neural Network (Node CLassification), Node Embeddings (DeepWalk)
+  Topics: Graph Neural Network (Node CLassification), Node Embeddings (DeepWalk capture neighborhood similarity and community membership. Analogous to Skipgram: given a vertex vi, it estimates the likelihood of observing the previous and the following vertices visited in the random walk)
 
 - **Deep Learning for Graphs II**  
 
